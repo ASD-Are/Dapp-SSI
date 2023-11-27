@@ -1,15 +1,15 @@
 # Dapp-SSI
-**Title**
+**Title:**
 Trust But Verify - Blockchain-Empowered Decentralized Authentication Schema on the Metaverse: A Self-Sovereign Identity Approach
 
-**Authors**
+**Authors:**
 Daniel Mebrahtom, Siem Hadish, Aron Sbhatu, Moayad Aloqaily, Mohsen Guizani
 Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), UAE
 
-**Link to Article** - https://ieeexplore.ieee.org/document/10294349
+**Link to Article:** - https://ieeexplore.ieee.org/document/10294349
 
 
-**Repository Overview**
+**Repository Overview:**
 This repository contains the code and resources for our comprehensive decentralized Metaverse architecture, implemented on the Ethereum blockchain. Our architecture integrates Self-Sovereign Identity (SSI) principles and Web 3.0 technologies, aiming to enhance security and trustworthiness in the decentralized Metaverse. This framework is designed to foster a more immersive and secure online environment.
 
 *Architecture Components*
